@@ -1,0 +1,7 @@
+users:
+  - username: Admin
+    password: Admin
+    role: Admin
+  - username: Jury
+    password: Jury
+    role: Jury
